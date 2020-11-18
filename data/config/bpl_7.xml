@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>7</id>
+  <lang></lang>
+  <title>QC_footer</title>
+  <form>sequential</form>
+  <width>1200</width>
+  <height>100</height>
+  <banners>
+    <banners_item>
+      <id>9</id>
+      <title>Siêu Sale tháng 11</title>
+      <clid>1</clid>
+      <file_name>tb1tvu_omgp7k4jszfqxxamhvxa.jpg_1200x1200_1.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>1200</file_width>
+      <file_height>418</file_height>
+      <file_alt></file_alt>
+      <file_click>https://pages.lazada.vn/wow/gcp/route/lazada/vn/upr_1000345_lazada/channel/vn/upr-router/vn?spm=a2o4n.home.top.dbr2.59976afem1rL5a&amp;hybrid=1&amp;data_prefetch=true&amp;wh_pid=/lazada/channel/vn/dien-tu-dien-gia-dung/dien-tu-chinh-hang-trang-chinh&amp;scm=1003.4.icms-z</file_click>
+      <target>_blank</target>
+      <bannerhtml></bannerhtml>
+      <publ_time>1605179356</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

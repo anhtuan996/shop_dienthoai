@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>4</id>
+  <lang></lang>
+  <title>Thời Đại Số</title>
+  <form>sequential</form>
+  <width>200</width>
+  <height>150</height>
+  <banners>
+    <banners_item>
+      <id>4</id>
+      <title>Cuộc Sống Mới</title>
+      <clid>1</clid>
+      <file_name>kkk.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>702</file_width>
+      <file_height>584</file_height>
+      <file_alt></file_alt>
+      <file_click></file_click>
+      <target>_blank</target>
+      <bannerhtml>&lt;a data-utm="Home|MainList|18" href="https://dantri.com.vn/ban-doc/ngan-ngam-canh-duong-vao-khu-di-tich-quoc-gia-bi-cay-nat-tai-dak-nong-20201112054934453.htm#dt_source=Home&amp;amp;dt_campaign=MainList&amp;amp;dt_medium=18" title="Ngán ngẩm cảnh đường vào khu di tích quốc gia bị cày nát tại Đắk Nông"&gt;(Dân trí)&amp;nbsp;- Hàng ngày, xe chở đá trọng tải lớn chạy rầp rập trên con đường duy nhất dẫn vào khu di tích cấp quốc gia. Mặt đường bị cày nát, người dân chỉ biết cầu cứu cơ quan chức năng.&lt;/a&gt;</bannerhtml>
+      <publ_time>1605173139</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>
