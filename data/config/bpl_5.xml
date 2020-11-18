@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plan>
+  <id>5</id>
+  <lang></lang>
+  <title>Công Nghệ</title>
+  <form>sequential</form>
+  <width>200</width>
+  <height>150</height>
+  <banners>
+    <banners_item>
+      <id>5</id>
+      <title>Siêu khuyến mãi</title>
+      <clid>1</clid>
+      <file_name>fpt_1.jfif</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jfif</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>353</file_width>
+      <file_height>210</file_height>
+      <file_alt></file_alt>
+      <file_click>https://fpt.vn/vi/internet-fpt/bung-no-khuyen-mai-cung-dang-ky-online-duy-nhat-tai-fpt.vn-shop--5633.html</file_click>
+      <target>_blank</target>
+      <bannerhtml>&lt;strong&gt;&lt;em&gt;Tặng Voucher giảm cước 100,000 VNĐ, miễn phí tới 03 tháng cước dành cho 300 Khách hàng đăng ký Online gói cước Internet hoăc Combo Internet Truyền hình FPT sớm nhất.&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;&#13;
+&amp;nbsp;</bannerhtml>
+      <publ_time>1605175411</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+    <banners_item>
+      <id>6</id>
+      <title>Khuyến mãi tháng 11</title>
+      <clid>1</clid>
+      <file_name>pft_2.jpg</file_name>
+      <imageforswf></imageforswf>
+      <file_ext>jpg</file_ext>
+      <file_mime>image/jpeg</file_mime>
+      <file_width>700</file_width>
+      <file_height>410</file_height>
+      <file_alt></file_alt>
+      <file_click>https://fpt.vn/vi/internet-fpt/gioi-thieu-ban-be-su-dung-internet-truyen-hinh-fpt-nhan-qua-laptop-sieu-mong--5555.html</file_click>
+      <target>_blank</target>
+      <bannerhtml>&lt;strong&gt;&lt;em&gt;Chiếc Laptop Asus Zenbook UX362 có hình thức siêu mỏng, chỉ nặng 1,3kg sẽ trở thành quà tặng dành cho Khách hàng khi tham gia chương trình Rủ bạn thêm vui – Tăng phần ưu đãi của FPT Telecom.&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;&#13;
+&amp;nbsp;</bannerhtml>
+      <publ_time>1605175653</publ_time>
+      <exp_time>0</exp_time>
+    </banners_item>
+  </banners>
+</plan>

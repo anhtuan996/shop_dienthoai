@@ -1,0 +1,156 @@
+/*ngannv-eb-login*/
+.login_form {
+    background  : #fff;
+    border      : 8px solid #ebebeb;
+    width       : 440px;
+    min-height  : 270px;
+    margin      : 0 auto;
+    text-align  : left;
+    font-family : tahoma; /*box-shadow: 0 0 30px 3px rgba(0, 0, 0, 0.7);*/
+}
+
+.login-title {
+    background  : #034b8a;
+    line-height : 30px;
+    font-weight : 700;
+    color       : #fff;
+    padding     : 0 0 0 15px; /*border-bottom: 2px solid #ff6000;*/
+    border      : 1px solid #fff;
+}
+
+.login-content {
+    padding : 18px 12px 5px;
+    margin  : 0;
+}
+
+.login-content a {
+    display : inline-block;
+}
+
+.login-content li {
+    line-height    : 28px;
+    display        : block;
+    position       : relative;
+    clear          : both;
+    padding-bottom : 7px;
+}
+
+.login-border {
+    border : 1px solid #dbdbdb;
+}
+
+.login-content li label {
+    color     : #333;
+    display   : inline-block;
+    min-width : 110px;
+    float     : left;
+}
+
+.login-content li.li-rem {
+    padding-left : 110px;
+}
+
+.login-content li label.rem-lbl {
+    float : none;
+    color : #666;
+}
+
+.login-content li input.login-txt {
+    border                : 1px solid #ccc;
+    font-size             : 13px;
+    padding               : 0 5px;
+    line-height           : 26px;
+    height                : 26px;
+    vertical-align        : middle;
+    width                 : 250px;
+    border-radius         : 2px;
+    -moz-radius           : 2px;
+    -webkit-border-radius : 2px;
+}
+
+.login-content li input.login-txt:focus {
+    border             : 1px solid rgba(82, 168, 236, 0.8) !important;
+    -webkit-box-shadow : inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);
+    -moz-box-shadow    : inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);
+    box-shadow         : inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(82, 168, 236, 0.6);
+    outline            : 0;
+    outline            : thin dotted \9;
+}
+
+input.login-btn, a.reg-btn, a.g-btn, a.y-btn {
+    background-image  : url("../images/login-button-v2.png");
+    background-repeat : no-repeat;
+    min-height        : 20px;
+}
+
+a.reg-btn {
+    background-position : -110px 1px;
+    width               : 100px;
+    height              : 32px; /* margin-left: 14px;*/
+}
+
+a.g-btn {
+    background-position : -115px -61px;
+    width               : 111px;
+    height              : 36px;
+}
+
+a.y-btn {
+    background-position : 6px -61px;
+    width               : 111px;
+    height              : 36px;
+}
+
+input.login-btn {
+    background-position : 0px 1px;
+    width               : 99px;
+    height              : 32px;
+    border              : 0;
+    background-color    : transparent;
+    float               : left;
+    cursor              : pointer
+}
+
+li.lh-small {
+    line-height : 10px;
+}
+
+li.login-fogot {
+    line-height : 18px;
+}
+
+li.login-fogot>a {
+    color     : #666;
+    font-size : 90%;
+}
+
+li.login-fogot>a:hover {
+    color : #ff6000;
+}
+
+div.login-close {
+    height   : 30px;
+    width    : 30px;
+    float    : right;
+    position : relative;
+}
+
+div.login-close>a {
+    background : url("../images/login-close.png") 14px -15px no-repeat;
+    position   : absolute;
+    top        : 6px;
+    width      : 100%;
+    height     : 16px;
+    width      : 30px;
+    left       : -6px;
+}
+
+div.login-close>a:hover {
+    background-position : 14px -47px;
+}
+
+input#_set_cookie {
+    position : relative;
+    top      : -2px;
+    left     : -4px;
+}
